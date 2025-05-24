@@ -6,8 +6,8 @@ You can find the assignment details here: [].
 
 
 # Built With
-*vanila html
-*vanila css
-*vanila javascript
+* vanila html
+* vanila css
+* vanila javascript
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

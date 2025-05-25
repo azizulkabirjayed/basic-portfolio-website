@@ -11,3 +11,7 @@ You can find the assignment details here: <a href="https://github.com/azizulkabi
 * vanila javascript
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+# Deployments
+The project is live and accessible at here: <a href="https://azizulkabirjayed.github.io/basic-portfolio-website/">click here </a>.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
